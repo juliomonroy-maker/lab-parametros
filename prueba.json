@@ -1,0 +1,7 @@
+{
+    "model": "qwen3.5:4b",
+    "prompt": "escribe un eslogan para una taquería",
+    "stream" : false,
+    "think": false,
+    "options": { "temperature": 0 }
+}
